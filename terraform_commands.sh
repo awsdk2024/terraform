@@ -82,5 +82,4 @@ imagine you want to write script to create vpc/s3/ec2 then you can make an order
 ######### how to know the changes added manually from frontend ###########
 terraform plan --refresh-only
 
-
-
+############ how to re-use the same code in multiple regions  ####################
